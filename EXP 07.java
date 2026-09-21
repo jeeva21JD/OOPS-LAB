@@ -63,3 +63,24 @@ A a = new A();
 a.start();
 }
 }
+
+OUTPUT: 
+
+Main Thread and Generate Number is 0
+New Thread0is EVEN and square of0is:0
+............................................
+Main Thread and Generate Number is 66
+New Thread66is EVEN and square of66is:4356
+............................................
+Main Thread and Generate Number is 56
+New Thread56is EVEN and square of56is:3136
+............................................
+Main Thread and Generate Number is 61
+New Thread61is ODD and Cube of61is:3721
+............................................
+Main Thread and Generate Number is 82
+New Thread82is EVEN and square of82is:6724
+............................................
+Main Thread and Generate Number is 13
+New Thread13is ODD and Cube of13is:169
+............................................
